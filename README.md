@@ -1,6 +1,7 @@
 
 
 GoFinancies is an app builded with React and NodeJS to manage incomes and outcomes of a bank account. It also provides an spreadsheets importer that reads csv files.
+
 ![image](https://media-exp1.licdn.com/dms/image/C4E22AQHqOJIoBRmJKg/feedshare-shrink_1280/0/1594724636882?e=1614816000&v=beta&t=yuPsrQbneX-KDxmNHJ1sdVhy3JhdyA7VnPbWpBQEbJM)
 
 ## Tecnologies used
